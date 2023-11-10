@@ -1,2 +1,4 @@
 # PyTest_Project
-Running autotests for different interface languages
+
+Running automated tests for different interface languages.  
+Part of the [Test automation using Selenium and Python](https://stepik.org/course/575/promo) course.
